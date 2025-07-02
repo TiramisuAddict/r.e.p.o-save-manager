@@ -4,15 +4,13 @@
 
 **R.E.P.O Save Manager** a lightweight desktop application for managing R.E.P.O. game save files. This tool allows you to easily back up and restore save files, keeping your game progress safe and organized. With simple functionality and automatic save detection, it’s an efficient solution for managing R.E.P.O. saves.
 
-## Installation
-
-### Direct Download
+## Direct Download
 
 1. Download the latest version from the [Releases page](https://github.com/TiramisuAddict/r.e.p.o-save-manager/releases)
 2. Extract the ZIP file to a folder of your choice
 3. Run the `.exe` file
 
-## How to use
+## Installation from Source
 
 Before running the source code, make sure you have the following installed:
   - Python 3.x (preferably the latest version)
