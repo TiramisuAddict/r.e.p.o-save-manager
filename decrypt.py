@@ -22,6 +22,5 @@ def decrypt_es3(file_path, password):
     # Check if the data is GZip compressed
     if decrypted_data[:2] == b'\x1f\x8b':  # GZip magic number
         decrypted_data = gzip.decompress(decrypted_data)
-
     
     return decrypted_data
