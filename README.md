@@ -41,5 +41,6 @@ r.e.p.o-save-manager/
 ├── main.py               # Source code
 ├── repo.ico              # App icon
 ├── decrypt.py            # Decryption code
+├── style.qss             # Style file
 └── requirements.txt      # Dependencies
 ```
