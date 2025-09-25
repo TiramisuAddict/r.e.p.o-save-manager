@@ -5,7 +5,7 @@
 **R.E.P.O Save Manager** a lightweight desktop application for managing R.E.P.O. game save files. This tool allows you to easily back up and restore save files, keeping your game progress safe and organized. With simple functionality and automatic save detection, it’s an efficient solution for managing R.E.P.O. saves.
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/TiramisuAddict/r.e.p.o-save-manager/refs/heads/main/img.png" alt="app_screenshot" >
+<img src="https://raw.githubusercontent.com/TiramisuAddict/r.e.p.o-save-manager/refs/heads/main/img.png" alt="app_screenshot" width="400">
 
 ## Direct Download
 
